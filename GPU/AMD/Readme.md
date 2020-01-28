@@ -35,3 +35,5 @@ According to [LeveloneTechs](https://level1techs.com/article/unlocking-2990wx-le
 
 
 Microsoft & AMD needs to inspect, verify and maybe fix it. 
+
+Fixed with Ryzen Master v2.0.1.1223 and with Windows 1909. Make sure you installed the latest BIOS and the latest Windows 10 patches. Ryzen Master will then NOT SHOW THE Dynamic Local Mode because this is not internally handled (fixed) by Windows. Coreprio is NOT needed anymore!
